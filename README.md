@@ -11,13 +11,13 @@ of another student's work as his or her own, it is a disciplinary offence.
 The most serious consequence of a disciplinary offence is dismissal from the university.
 
 ### Minimum required (not accepted without them, 6 points)
-[ ] `0.0 points` Readme.md file: completed, uploaded
-[ ] `0.0 points` Main page: displayed
-[ ] `1.0 points` Main page: listing of all cards, e.g. with pictures
-[ ] `1.0 points` Main page: click on the name of the card to go to the details page of the corresponding card
-[ ] `1.0 point` Card details: Display the name, HP, description and element of the monster on the card
-[ ] `0.5 points` Card details: The image associated with the card is displayed
-[ ] `0.5 points` Card details: the colour or background colour of one or more elements on the page changes according to the element of the monster on the card, e.g. Fire is red, Lightning is yellow, etc.
+[X] `0.0 points` Readme.md file: completed, uploaded
+[X] `0.0 points` Main page: displayed
+[X] `1.0 points` Main page: listing of all cards, e.g. with pictures
+[X] `1.0 points` Main page: click on the name of the card to go to the details page of the corresponding card
+[X] `1.0 point` Card details: Display the name, HP, description and element of the monster on the card
+[X] `0.5 points` Card details: The image associated with the card is displayed
+[X] `0.5 points` Card details: the colour or background colour of one or more elements on the page changes according to the element of the monster on the card, e.g. Fire is red, Lightning is yellow, etc.
 [ ] `2.0 points` Admin: Create new card: error handling, successful save (without authentication)
 
 ### The basic tasks (14 points)
